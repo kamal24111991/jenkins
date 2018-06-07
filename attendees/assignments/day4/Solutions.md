@@ -5,7 +5,7 @@ freeStyleJob('helloworld Job') {
 }
 
 scm {
-  git('https://github.com/lovedeepsh/jenkins.git')
+  git('https://github.com/kamal24111991/jenkins.git')
 
    }
 

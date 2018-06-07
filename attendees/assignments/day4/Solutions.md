@@ -17,7 +17,7 @@ scm {
 
    steps {
 
-   shell('ls -al')
+   shell('ls')
 
    } 
 
